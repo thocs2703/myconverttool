@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyConvertTool</string>
+
+    <string-array name="distance_unit">
+        <item>M</item>
+        <item>Cm</item>
+        <item>In</item>
+        <item>Yd</item>
+    </string-array>
+</resources>
